@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+openai
+python-dotenv
+requests
+jinja2
+jupyter
+sounddevice
+soundfile
+websockets
